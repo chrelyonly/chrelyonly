@@ -1,3 +1,11 @@
+
+
+- 
+<p align="center">
+  <a href="https://nginx-3.frp.chrelyonly.cn" target="_blank">
+    <img alt="chrelyonly!" src="https://nginx-3.frp.chrelyonly.cn/moe-counter-api/@chrelyonly?name=chrelyonly&theme=rule34">
+  </a>
+</p>
 - 👋 我是@chrelyonly
 - 👀 我是一个小草莓
 - 🌱 初入社会，社会充满了恶意
