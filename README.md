@@ -14,7 +14,7 @@
 - 👀 我是一个小草莓
 - 🌱 初入社会，社会充满了恶意
 - 💞️ 喜欢程序
-- 📫 技能加点 ：js java vue mysql go python linux  c#/c++ .net vb/s TC LUA HOOK 算法 网络协议 代理 脚本 汇编
+- 📫 技能加点 ：js java vue mysql go python linux  c#/c++ .net vb/s TC LUA HOOK 算法 网络协议 代理 脚本 汇编  有对应项目
 - ❥(^_-) 爱所有的人
 -
 <!---
