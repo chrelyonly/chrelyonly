@@ -2,7 +2,7 @@
 ##
 - 
 <p align="center">
-  <a href="https://nginx-3.frp.chrelyonly.cn" target="_blank">
+  <a href="https://github.com/chrelyonly/chrelyonly" target="_blank">
     <img alt="chrelyonly!" src="https://api.chrelyonly.cn/moe-counter-api/@chrelyonly?name=chrelyonly&theme=rule34">
   </a>
 </p>
